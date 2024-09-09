@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarun-Jim
-- 👀 I’m interested in making programs to simplify my life but end up making it more COMPLEX with code. I also like creating big things from smaller blocks(I love LEGO).
+- 👀 I’m interested in scheming, simplifying, and integrating everything I work on or do on a day-to-day basis. I also like creating big things from smaller blocks(I love LEGO).
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on the things I interact with daily and love to use
 - 📫 How to reach me ...(I like to be left alone)
